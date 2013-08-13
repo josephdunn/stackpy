@@ -29,6 +29,7 @@ METHOD_TO_TYPE_MAPPING = {
     'inbox':                           'inbox_item',
     'inbox/unread':                    'inbox_item',
     'info':                            'info',
+    'me':                              'user',
     'notifications':                   'notification',
     'notifications/unread':            'notification',
     'posts':                           'post',

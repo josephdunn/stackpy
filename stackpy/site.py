@@ -19,6 +19,7 @@ class Site:
                 'comments',
                 'events',
                 'info',
+                'me',
                 'posts',
                 'privileges',
                 'questions',
